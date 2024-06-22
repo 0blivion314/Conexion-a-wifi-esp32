@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 /*Definimos nuestras credenciales de la red WiFi*/
-const char* ssid = "MovistarFibra-A9B820";
-const char* pass = "nk58sgmCjzJ7GgjTKo8q";
+const char* ssid = "*****";
+const char* pass = "*********";
 
 void setup() {
   /*Iniciamos el terminal Serial para la escritura de algunos parámetros */
